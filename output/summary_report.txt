@@ -1,0 +1,27 @@
+Weather Data Summary Report
+---------------------------
+
+Average temperature: 17.07 °C
+Highest temperature: 23.00 °C
+Lowest temperature: 11.80 °C
+
+Total rainfall: 17.00 mm
+Day with highest rainfall: 2023-02-01
+
+Monthly overview (Temperature mean, Rainfall sum, Humidity mean):
+       Temperature  Rainfall  Humidity
+Month                                 
+1             16.4       3.5      70.0
+2             13.5       9.5      78.0
+3             21.3       4.0      57.6
+
+Seasonal overview:
+        Temperature  Rainfall  Humidity
+Season                                 
+Spring        21.30       4.0      57.6
+Winter        14.95      13.0      74.0
+
+Observations:
+- Temperatures and rainfall vary between months and seasons.
+- Look for months with unusually high rainfall or temperature spikes.
+- This information can help with planning and climate awareness.

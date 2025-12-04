@@ -1,0 +1,35 @@
+WEATHER DATA ANALYSIS REPORT
+========================================
+
+DATA OVERVIEW:
+Total records: 15
+Date range: 2023-01-01 to 2023-03-05
+
+TEMPERATURE SUMMARY:
+Average: 17.07°C
+Maximum: 23.00°C
+Minimum: 11.80°C
+
+RAINFALL SUMMARY:
+Total: 17.00 mm
+Average daily: 1.13 mm
+Wettest day: 2023-02-01 (5.0 mm)
+
+MONTHLY ANALYSIS:
+       Temperature  Rainfall  Humidity
+Month                                 
+1             16.4       3.5      70.0
+2             13.5       9.5      78.0
+3             21.3       4.0      57.6
+
+SEASONAL ANALYSIS:
+        Temperature  Rainfall  Humidity
+Season                                 
+Spring        21.30       4.0      57.6
+Winter        14.95      13.0      74.0
+
+KEY INSIGHTS:
+- Monitor temperature variations for climate patterns
+- Track rainfall distribution for water resource planning
+- Seasonal analysis helps in agricultural planning
+- Humidity levels affect comfort and health considerations
